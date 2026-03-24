@@ -1,0 +1,2 @@
+This project focuses on building an intelligent system to detect and classify eye diseases from image data using deep learning techniques. The goal is to assist in early diagnosis by automatically identifying patterns in eye images that indicate specific medical conditions.
+The system uses a Convolutional Neural Network (CNN) to analyze eye images and classify them into different disease categories. Deep learning is particularly effective for this task because it can automatically extract important visual features such as textures, shapes, and abnormalities from images
